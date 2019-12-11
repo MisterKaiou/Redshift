@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 12992075cd5c1a745879e1dc92deff01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7501778473976659587
+    second: Personagem_0
+  - first:
+      213: -5474501469788244867
+    second: Personagem_1
+  - first:
+      213: 5985324816913153986
+    second: Personagem_2
+  - first:
+      213: -4103437087479778593
+    second: Personagem_3
+  - first:
+      213: 7700747892506411726
+    second: Personagem_4
+  - first:
+      213: -5074991419491846861
+    second: Personagem_5
+  - first:
+      213: 119723862632371287
+    second: Personagem_6
+  - first:
+      213: 3069208646073774518
+    second: Personagem_7
+  - first:
+      213: -853299449586930918
+    second: Personagem_8
+  - first:
+      213: 3920698653494930242
+    second: Personagem_9
+  - first:
+      213: -8840467898546309861
+    second: Personagem_10
+  - first:
+      213: -5197617883074779432
+    second: Personagem_11
+  - first:
+      213: 609909039143518307
+    second: Personagem_12
+  - first:
+      213: 6534569371529485915
+    second: Personagem_13
+  - first:
+      213: -2651642842336973948
+    second: Personagem_14
+  - first:
+      213: -7986259568505249676
+    second: Personagem_15
+  - first:
+      213: 153094117552882491
+    second: Personagem_16
+  - first:
+      213: 1465940445321709332
+    second: Personagem_17
+  - first:
+      213: -3480634265694833998
+    second: Personagem_18
+  - first:
+      213: -1051227224216844590
+    second: Personagem_19
+  - first:
+      213: 720680071998854066
+    second: Personagem_20
+  - first:
+      213: 5813796230779476144
+    second: Personagem_21
+  - first:
+      213: 2302944035175350080
+    second: Personagem_22
+  - first:
+      213: -2990722454561655097
+    second: Personagem_23
+  - first:
+      213: 6024555023846925168
+    second: Personagem_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Personagem_0
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 756
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21fca0b68a55cc642934430acdfaa800
+      internalID: -7501778473976659587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_1
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 756
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9f45a08f5a19245b9a0a65d2158529
+      internalID: -5474501469788244867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 756
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5e0fc8432e3e24daa5b078a74cbb40
+      internalID: 5985324816913153986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_3
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 756
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 352b15dc85d473643a774ca6bcdfcbda
+      internalID: -4103437087479778593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_4
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 756
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a95213bb1c7bd439e47cd862b257f6
+      internalID: 7700747892506411726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_5
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 570
+        width: 102
+        height: 132
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c895bba6ea9099f4cb594109eb011be2
+      internalID: -5074991419491846861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_6
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 570
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e953da21b177844999d299b03a5185d
+      internalID: 119723862632371287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_7
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 570
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc32d00d5d5f95e4e91302fe8598aa8d
+      internalID: 3069208646073774518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_8
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 570
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f9ba593cbb5f9479f47031bdf7a56b
+      internalID: -853299449586930918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_9
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 570
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 919c7c2036c4a9a439bf6849ea9caf87
+      internalID: 3920698653494930242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 384
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb86cb55568a04a4fb0c105b895037c0
+      internalID: -8840467898546309861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_11
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 384
+        width: 102
+        height: 132
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dec3a5718b42e743951cba02fa0cd9a
+      internalID: -5197617883074779432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_12
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 384
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818bc4f4415251449313932edd75fd3
+      internalID: 609909039143518307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 378
+        width: 96
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4784775c4d0ea004ea3663b24b05c1fa
+      internalID: 6534569371529485915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_14
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 384
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4040a0996a17e448d4fc950c6e593f
+      internalID: -2651642842336973948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_15
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 96
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bee7453f692404b8ea12c78e0f196d
+      internalID: -7986259568505249676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_16
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 198
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096eaf744da73e745990e0a696d79c13
+      internalID: 153094117552882491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_17
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 192
+        width: 96
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aefcf865a1912542b34cf0e2a0f9e29
+      internalID: 1465940445321709332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_18
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 198
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c88e248c55f72d4484cd6723a258aba
+      internalID: -3480634265694833998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 192
+        width: 96
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb819e74faa98348853c079cbcc763c
+      internalID: -1051227224216844590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_20
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 12
+        width: 54
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da595016503438449fca0f8d0ecdcb0
+      internalID: 720680071998854066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_21
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 84
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ca7ccbfa446c94eb85ffde9548a552
+      internalID: 5813796230779476144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_22
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 12
+        width: 54
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313ba5a0b509a6245aa8b25b878ee4bd
+      internalID: 2302944035175350080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_23
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 6
+        width: 84
+        height: 150
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bd992048e2e314c900946cf2d7204e
+      internalID: -2990722454561655097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Personagem_24
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 12
+        width: 114
+        height: 144
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7c78b6ac60b8fa4cb8ef8e8cdf70a42
+      internalID: 6024555023846925168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
