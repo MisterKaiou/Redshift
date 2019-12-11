@@ -6,10 +6,11 @@ public class PlayerMovement : MonoBehaviour
 {
     public float moveSpeed = 5f;
 
-    public Rigidbody2D rb;
-    public Animator animator;
+    [SerializeField] private Rigidbody2D rb;
+    [SerializeField] private Animator animator;
+    [SerializeField] private BoxCollider2D colliderFront, colliderSide;
 
-    Vector2 movement;
+    private Vector2 movement;
 
     // Update is called once per frame
     void Update()
@@ -24,30 +25,36 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(rb.position + movement * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(new Vector2(
+                            Mathf.Clamp(rb.position.x, -2.75f, 2.75f),
+                            Mathf.Clamp(rb.position.y, -1.30f, 1.95f)) 
+            + movement 
+            * moveSpeed * Time.fixedDeltaTime);
 
         InvertAnimation(Input.GetAxisRaw("Horizontal"));
-        CheckFacingDirection(movement);
+        ToggleColliderBox();
     }
 
-    private void CheckFacingDirection(Vector2 direction)
+    private void ToggleColliderBox()
     {
-        if (direction != Vector2.zero)
+        bool ColliderFrontIsActive = colliderFront != null;
+        bool ColliderSideIsActive = colliderSide != null;
+
+        if (Input.GetAxisRaw("Horizontal") != 0)
         {
-            animator.SetFloat("Horizontal", direction.x);
-            animator.SetFloat("Vertical", direction.y);
+            if (ColliderFrontIsActive) colliderFront.enabled = false;
+            if (ColliderSideIsActive) colliderSide.enabled = true;
+        }
+        else if (Input.GetAxisRaw("Horizontal") == 0)
+        {
+            if (ColliderFrontIsActive) colliderFront.enabled = true;
+            if (ColliderSideIsActive) colliderSide.enabled = false;
         }
     }
 
     private void InvertAnimation(float inputValue)
     {
-        if(inputValue < 0)
-        {
-            GetComponent<SpriteRenderer>().flipX = true;
-        }
-        else if(inputValue > 0)
-        {
-            GetComponent<SpriteRenderer>().flipX = false;
-        }
+        if (inputValue < 0) GetComponent<SpriteRenderer>().flipX = true;
+        else if (inputValue > 0) GetComponent<SpriteRenderer>().flipX = false;
     }
 }
