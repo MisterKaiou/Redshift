@@ -1,0 +1,619 @@
+fileFormatVersion: 2
+guid: 0a5bd0feb4732934086953eaa25cecd2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2571197500535250914
+    second: 03 itens hotel_0
+  - first:
+      213: 3377311862370689275
+    second: 03 itens hotel_1
+  - first:
+      213: -3148698423699909927
+    second: 03 itens hotel_2
+  - first:
+      213: -7898805474607843036
+    second: 03 itens hotel_3
+  - first:
+      213: -5330902335557897406
+    second: 03 itens hotel_4
+  - first:
+      213: -491671536783603773
+    second: 03 itens hotel_5
+  - first:
+      213: 4598986747919070949
+    second: 03 itens hotel_6
+  - first:
+      213: -4670959286378282771
+    second: 03 itens hotel_7
+  - first:
+      213: 5586696765003188284
+    second: 03 itens hotel_8
+  - first:
+      213: -3090621502913675692
+    second: 03 itens hotel_9
+  - first:
+      213: -651000077828617076
+    second: 03 itens hotel_10
+  - first:
+      213: -5430584939996842863
+    second: 03 itens hotel_11
+  - first:
+      213: -5601130482503971228
+    second: 03 itens hotel_12
+  - first:
+      213: -6954090499778599304
+    second: 03 itens hotel_13
+  - first:
+      213: 8101341029046347139
+    second: 03 itens hotel_14
+  - first:
+      213: 2653486493682479654
+    second: 03 itens hotel_15
+  - first:
+      213: 3745765609803729147
+    second: 03 itens hotel_16
+  - first:
+      213: 2741889360274212667
+    second: 03 itens hotel_17
+  - first:
+      213: -6309959433393435691
+    second: 03 itens hotel_18
+  - first:
+      213: -2037774122411730596
+    second: 03 itens hotel_19
+  - first:
+      213: -5236851821686779850
+    second: 03 itens hotel_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 03 itens hotel_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 138
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa21816a43b50994f9a28b784a27ea76
+      internalID: -2571197500535250914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 146
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a39a608d5a7067a4dada4e692fd32007
+      internalID: 3377311862370689275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_2
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 148
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e70d6886b965b34c8cb7e1336a65974
+      internalID: -3148698423699909927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_3
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 139
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec576563e2666a47812975d0a0a45d2
+      internalID: -7898805474607843036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_4
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 120
+        width: 43
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7583a8a0decaf4aa3d35791258fe7c
+      internalID: -5330902335557897406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 120
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eba56510bbfc3449852e66c04f34ae
+      internalID: -491671536783603773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 104
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8edf2d8b042137549afde834d0aebeb4
+      internalID: 4598986747919070949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 102
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37b2b85ffe69394bb61c3732f8c5e47
+      internalID: -4670959286378282771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 90
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1cc49d683eaa741a4951c789cc4251
+      internalID: 5586696765003188284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 90
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f54959d077814687041fdd8bb1607
+      internalID: -3090621502913675692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_10
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 87
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c3255eb57b01340bfeb2df9cc83274
+      internalID: -651000077828617076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 93
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5d042add3508d4ba8145a8a21b5613
+      internalID: -5430584939996842863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 93
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f64bc143dc15a4693cf2ec132bdf3f
+      internalID: -5601130482503971228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_13
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 99
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fa9f1ee199309f4a9288b7d837a08d1
+      internalID: -6954090499778599304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_14
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c3551e5660102488603b7e1cada56a
+      internalID: 8101341029046347139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_15
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8325c8d300166a48a8efce8f0a59f8c
+      internalID: 2653486493682479654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_16
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 81
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5147f8b10c191240aec1e12e8d65584
+      internalID: 3745765609803729147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_17
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 70
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bafe10c15d815f41b043373016c6c3c
+      internalID: 2741889360274212667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_18
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 58
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7462198f7c60c45ab7dd8be16bbec1
+      internalID: -6309959433393435691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_19
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 43
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1718c872c5bc92b46811a05ab8fc291d
+      internalID: -2037774122411730596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 03 itens hotel_20
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 61
+        width: 33
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16dd1c76ce7c61447b5a38095cca24cf
+      internalID: -5236851821686779850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

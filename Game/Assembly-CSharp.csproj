@@ -63,6 +63,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Code\PlayerActions.cs" />
     <Compile Include="Assets\Code\PlayerMovement.cs" />
     <None Include="Assets\codeandweb.com\Readme.txt" />
     <Reference Include="Unity.Timeline.Editor">

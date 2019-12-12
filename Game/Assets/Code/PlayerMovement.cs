@@ -8,7 +8,8 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private Rigidbody2D rb;
     [SerializeField] private Animator animator;
-    [SerializeField] private BoxCollider2D colliderFront, colliderSide;
+    [SerializeField] public BoxCollider2D colliderFront, colliderSide;
+    [SerializeField] private BoxCollider2D hitBoxBody, hitboxHead;
 
     private Vector2 movement;
 
@@ -25,11 +26,10 @@ public class PlayerMovement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        rb.MovePosition(new Vector2(
-                            Mathf.Clamp(rb.position.x, -2.75f, 2.75f),
-                            Mathf.Clamp(rb.position.y, -1.30f, 1.95f)) 
-            + movement 
-            * moveSpeed * Time.fixedDeltaTime);
+        rb.MovePosition(rb.position
+            + movement
+            * moveSpeed
+            * Time.fixedDeltaTime);
 
         InvertAnimation(Input.GetAxisRaw("Horizontal"));
         ToggleColliderBox();

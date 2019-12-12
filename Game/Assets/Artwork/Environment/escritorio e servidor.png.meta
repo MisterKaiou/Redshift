@@ -1,0 +1,739 @@
+fileFormatVersion: 2
+guid: 865ad5cfc9e73174e8b809469de7bf08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6333390371249427985
+    second: escritorio e servidor_0
+  - first:
+      213: 7888543592478380239
+    second: escritorio e servidor_1
+  - first:
+      213: 8423754897666316979
+    second: escritorio e servidor_2
+  - first:
+      213: 7367560945152234454
+    second: escritorio e servidor_3
+  - first:
+      213: 2786446217492957551
+    second: escritorio e servidor_4
+  - first:
+      213: 3254328969885348483
+    second: escritorio e servidor_5
+  - first:
+      213: 1556299431246680970
+    second: escritorio e servidor_6
+  - first:
+      213: 6991910120834761668
+    second: escritorio e servidor_7
+  - first:
+      213: 8743311344718460327
+    second: escritorio e servidor_8
+  - first:
+      213: -9198673539354748558
+    second: escritorio e servidor_9
+  - first:
+      213: 7918707456827410273
+    second: escritorio e servidor_10
+  - first:
+      213: -7119441924333925657
+    second: escritorio e servidor_11
+  - first:
+      213: 4456666563813378178
+    second: escritorio e servidor_12
+  - first:
+      213: 329921101844169691
+    second: escritorio e servidor_13
+  - first:
+      213: -6569539874170644282
+    second: escritorio e servidor_14
+  - first:
+      213: 4059766970333455408
+    second: escritorio e servidor_15
+  - first:
+      213: 2843009573360945373
+    second: escritorio e servidor_16
+  - first:
+      213: 2131521400057917046
+    second: escritorio e servidor_17
+  - first:
+      213: -6026668640227243663
+    second: escritorio e servidor_18
+  - first:
+      213: -3735897516445686931
+    second: escritorio e servidor_19
+  - first:
+      213: -4885438557649815870
+    second: escritorio e servidor_20
+  - first:
+      213: -7685407869225777899
+    second: escritorio e servidor_21
+  - first:
+      213: 2614955025797327699
+    second: escritorio e servidor_22
+  - first:
+      213: -1201931293066301009
+    second: escritorio e servidor_23
+  - first:
+      213: 8782344549552718754
+    second: escritorio e servidor_24
+  - first:
+      213: -9150197815064074423
+    second: escritorio e servidor_25
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: escritorio e servidor_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bae93f44f6bd142b2966908eb3b976
+      internalID: 6333390371249427985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 126
+        width: 55
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b977e6ccb32d5e4eb8e363353cdf384
+      internalID: 7888543592478380239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_2
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 127
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abfecf078dc7ea4a823419597852467
+      internalID: 8423754897666316979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_3
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 127
+        width: 18
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34452f54cd9f4dc43b53dda143c19b40
+      internalID: 7367560945152234454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_4
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 139
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6bb4602bc60cd4b93d5e18db23af95
+      internalID: 2786446217492957551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_5
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 140
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06daeba2ef29e44aa353190a93514b9
+      internalID: 3254328969885348483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_6
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 125
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dc085f871581a846a47f3686d3c56d8
+      internalID: 1556299431246680970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_7
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 103
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37a772b180a3894a84dcf60e96f3f01
+      internalID: 6991910120834761668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 100
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052a9962fff34a8448eb2c0c9d9d6ee0
+      internalID: 8743311344718460327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_9
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 102
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bb93ec749c17e4bbcce6e6783aedd6
+      internalID: -9198673539354748558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 100
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab8a502fda93624495654742ee2bc8b
+      internalID: 7918707456827410273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_11
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 102
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c8a8009faf48e42a4083d2049bff06
+      internalID: -7119441924333925657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_12
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 99
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5392b085d0ec643a773d1fb448cedb
+      internalID: 4456666563813378178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_13
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 104
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb91c68d3e53444c8b5ba22bf40e0ba
+      internalID: 329921101844169691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 98
+        width: 35
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7470851c38d868e4081592d5cccc1108
+      internalID: -6569539874170644282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_15
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 93
+        width: 23
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f637de5329cb57b40ab1f8094dd203bb
+      internalID: 4059766970333455408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 94
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2acea818428e4aa44b4674b316e2b67f
+      internalID: 2843009573360945373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_17
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 44
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6353202b746f7345a924be560bef121
+      internalID: 2131521400057917046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_18
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2
+        width: 59
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8bacdda482ebd49ad03b01cfc8a3e1
+      internalID: -6026668640227243663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_19
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 47
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f389cf692e7a6d4284703b4efd5e594
+      internalID: -3735897516445686931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_20
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 52
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0d12722a6ba9341b03a461db7f69bc
+      internalID: -4885438557649815870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_21
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 29
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae63ac3c7c080f4e97d96a571fa0c40
+      internalID: -7685407869225777899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_22
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 29
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862aa6ae053f38441984fa7bc4994f60
+      internalID: 2614955025797327699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_23
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 14
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88e49672915baf44973039300e3657c
+      internalID: -1201931293066301009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_24
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 26
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626636c0705fa6843bb64a4f9fcd55d7
+      internalID: 8782344549552718754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: escritorio e servidor_25
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 28
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee036a1db74c2324f9746b5b6adaa60c
+      internalID: -9150197815064074423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

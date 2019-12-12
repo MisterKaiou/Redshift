@@ -5,6 +5,11 @@ TagManager:
   serializedVersion: 2
   tags:
   - Cenario
+  - Weapon
+  - DoorToOffice
+  - DoorToHouse
+  - DoorToHotelCorridor
+  - Spawn
   layers:
   - Default
   - TransparentFX
